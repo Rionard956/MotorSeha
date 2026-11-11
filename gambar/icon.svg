@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Ikon MotorSehat">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="60" r="46" stroke="#111111" stroke-width="10"/>
+    <circle cx="60" cy="60" r="31" stroke="#111111" stroke-width="3"/>
+    <path d="M6 62 H36 L44 42 L56 84 L68 50 L74 62 H114" stroke="#dc2626" stroke-width="7"/>
+  </g>
+</svg>
